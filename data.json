@@ -1,0 +1,8 @@
+{
+  "students": [
+    {"id": 1, "name": "אברהם", "class": "כיתה י'", "project": "רשת אלחוטית"},
+    {"id": 2, "name": "יצחק", "class": "כיתה י", "project": "כתובת IP"},
+    {"id": 3, "name": "יעקב", "class": "כיתה י'", "project": "שרת DHCP"},
+    {"id": 4, "name": "משה", "class": "כיתה י", "project": "פינג"}
+  ]
+}
